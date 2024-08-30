@@ -1,4 +1,16 @@
-## Hi there 👋
+## 안녕하세요! 👋
+I'm Backend Engineer.
+
+### Stack
+- Java, Kotlin
+- MySQL, MSSQL, Postgres, Oracle
+
+### Learning 💬
+- Spring Boot
+
+### Interest 🤔
+- Docker
+- Kubernetes
 
 <!--
 **ennaru/ennaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
