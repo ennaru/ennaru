@@ -1,11 +1,12 @@
 ## 안녕하세요! 👋
-I'm Backend Engineer.
+백엔드 엔지니어로 성장하고픈 개발자입니다.
 
 ### Stack
 - Java, Kotlin
 - MySQL, MSSQL, Postgres, Oracle
 
 ### Learning 💬
+- Kotlin
 - Spring Boot
 
 ### Interest 🤔
